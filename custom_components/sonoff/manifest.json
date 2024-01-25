@@ -1,0 +1,11 @@
+{
+  "codeowners": ["cyrille.meichel@gmail.com"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/landru29/ha_sonoff/",
+  "domain": "sonoff",
+  "iot_class": "calculated",
+  "name": "SonOff",
+  "requirements": [],
+  "version": "1.0.0"
+}
